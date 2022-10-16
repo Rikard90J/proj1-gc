@@ -55,7 +55,7 @@ Testing:
 
 Deployment:
 
-- The site was deployed to GitHub pages. The live link can be found here - 
+- The site was deployed to GitHub pages. The live link can be found here -  https://rikard90j.github.io/proj1-gc/
 
 Credits:
 
