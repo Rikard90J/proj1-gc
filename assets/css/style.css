@@ -28,7 +28,7 @@
     float: left;
     font-weight: 500;
     font-size: 200%;
-    color: rgb(17, 17, 17);
+    color: rgb(59, 2, 2);
     padding-left: 15px
 
 }
@@ -50,7 +50,7 @@
 
 }
 #menu li a {
-    color: rgb(0, 41, 102);
+    color: rgb(59, 2, 2);
 }
     
  
@@ -87,7 +87,7 @@ h1, h2 ,h3 {
 #gran-border {
     border: 2px;
     padding-top: 2px;
-    border-color: black;
+    border-color: rgb(59, 2, 2);
     text-align: center;
 }
 
